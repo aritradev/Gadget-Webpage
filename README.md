@@ -1,3 +1,5 @@
+![Repo Views](https://komarev.com/ghpvc/?username=aritradev-Ai-Image-Generator&label=Repo+Views&color=DE1B89)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
